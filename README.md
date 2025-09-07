@@ -9,7 +9,7 @@ My solutions and practice files for the SQLBolt tutorial.
 - [✅] Lesson 2: Queries with constraints (Pt. 1)
 - [✅] Lesson 3: Queries with constraints (Pt. 2)
 - [✅] Lesson 4: Filtering and sorting Query results
-- [ ] Lesson 5: Simple SELECT Queries
+- [✅] Lesson 5: Simple SELECT Queries
 - [ ] Lesson 6: Multi-table queries with JOINs
 - [ ] Lesson 7: OUTER JOINs
 - [ ] Lesson 8: A short note on NULLs
